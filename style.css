@@ -1,0 +1,33 @@
+h1,h2,h3{
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    margin: 30px;
+}
+
+p{
+    color: blue;
+    font-size: 18px;
+}
+
+div>p{
+    color: red;
+    border: 5px solid black;
+}
+
+ul{
+    color: green;
+    font-family: georgia, serif;
+    border: 2px solid green;
+    padding: 15px;
+}
+
+div{
+    background-color: white;
+    padding: 15px;
+}
